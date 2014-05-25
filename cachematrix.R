@@ -1,5 +1,5 @@
 ## function 'makeCacheMatrix' creates and initializes a matrix
-## function 'cacheSolve' returns the inverse matrix
+## function 'cacheSolve' calcs and returns the inverse matrix -> pulls data from cache if available
 
 ## subfuntion 'set' initializes the matrix
 ## subfunction 'get' shows the matrix
