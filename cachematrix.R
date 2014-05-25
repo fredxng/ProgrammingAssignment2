@@ -1,4 +1,4 @@
-## function 'makeCachematrix' creates and initializes a matrix
+## function 'makeCacheMatrix' creates and initializes a matrix
 ## function 'cacheSolve' returns the inverse matrix
 
 ## subfuntion 'set' initializes the matrix
